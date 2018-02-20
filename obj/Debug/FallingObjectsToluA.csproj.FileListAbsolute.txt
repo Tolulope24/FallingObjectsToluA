@@ -1,0 +1,10 @@
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\bin\Debug\FallingObjectsToluA.exe.config
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\bin\Debug\FallingObjectsToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\bin\Debug\FallingObjectsToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.frmFallingobjects.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.Properties.Resources.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.csproj.GenerateResource.Cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\FallingObjectsToluA\FallingObjectsToluA\obj\Debug\FallingObjectsToluA.csprojResolveAssemblyReference.cache
